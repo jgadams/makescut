@@ -1,0 +1,7 @@
+Creates a .LNK based on:
+- Target path
+- Arguments
+- Icon path
+- Working directory
+
+Uses VBScript
